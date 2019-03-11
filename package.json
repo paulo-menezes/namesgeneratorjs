@@ -11,10 +11,10 @@
     "url": "git+https://github.com/paulo-menezes/namesgeneratorjs.git"
   },
   "keywords": [
-    "node",
-    "nodejs",
     "name",
-    "generator"
+    "random",
+    "generator",
+    "docker"
   ],
   "author": "Paulo Menezes (https://github.com/paulo-menezes)",
   "license": "ISC",
